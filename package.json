@@ -1,0 +1,14 @@
+{
+  "name": "rogueColorConsole",
+  "version": "0.9.0",
+  "description": "canvas-wrapping color console capable of 2-toned sprite blitting",
+  "main": "lib/console.js",
+  "scripts": {
+    "example": "browserify example/example.js -o example/index.js",
+  },
+  "author": "Aaron Goin",
+  "license": "MIT",
+  "devDpendencies": {
+    "browserify": "^9.0.8",
+  }
+}
